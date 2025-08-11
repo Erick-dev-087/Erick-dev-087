@@ -42,8 +42,8 @@ I’m passionate about building tech solutions, exploring AI, and creating tools
 ---
 
 ## 📊 GitHub Stats
-![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erick-dev-087&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-dev-087&layout=compact&theme=tokyonight)
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erick-dev-087&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-dev-087&layout=compact&theme=radical)
 
 ---
 
